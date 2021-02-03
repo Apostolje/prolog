@@ -36,3 +36,5 @@ parent(lubomila,dobrozhir).
 parent(boguslav,bogomil).
 parent(boguslav,bozhedara).
 parent(bratislava,bogomil).
+
+heheh(kekes).
